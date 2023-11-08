@@ -1,0 +1,12 @@
+16:59:28.883 [main] INFO  com.bairuihe.dcucuser.DcUcUserApplication - Starting DcUcUserApplication using Java 1.8.0_181 on DESKTOP-Q8O82JS with PID 9196 (D:\Code\OtherCode\Jarvis\dc-uc-user\target\classes started by ouyangzhiwei in D:\Code\OtherCode\Jarvis)
+16:59:28.916 [main] INFO  com.bairuihe.dcucuser.DcUcUserApplication - No active profile set, falling back to 1 default profile: "default"
+16:59:29.536 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:59:29.536 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:59:29.536 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.68]
+16:59:29.631 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/jarvis] - Initializing Spring embedded WebApplicationContext
+16:59:29.704 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+16:59:29.893 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:59:30.135 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:59:30.152 [main] INFO  com.bairuihe.dcucuser.DcUcUserApplication - Started DcUcUserApplication in 1.586 seconds (JVM running for 2.389)
+17:04:18.014 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+17:04:18.016 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
